@@ -1,0 +1,2 @@
+Warning (10268): Verilog HDL information at parking_system.v(76): always construct contains both blocking and non-blocking assignments File: C:/Users/Eng.Yousef/Desktop/parking_system/parking_system.v Line: 76
+Warning (10268): Verilog HDL information at parking_system.v(327): always construct contains both blocking and non-blocking assignments File: C:/Users/Eng.Yousef/Desktop/parking_system/parking_system.v Line: 327

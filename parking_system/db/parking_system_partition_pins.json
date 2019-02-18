@@ -1,0 +1,221 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "counter[0]",
+					"strict" : false
+				},
+				{
+					"name" : "counter[2]",
+					"strict" : false
+				},
+				{
+					"name" : "counter[3]",
+					"strict" : false
+				},
+				{
+					"name" : "counter[4]",
+					"strict" : false
+				},
+				{
+					"name" : "counter[5]",
+					"strict" : false
+				},
+				{
+					"name" : "counter[6]",
+					"strict" : false
+				},
+				{
+					"name" : "c3[0]",
+					"strict" : false
+				},
+				{
+					"name" : "c3[3]",
+					"strict" : false
+				},
+				{
+					"name" : "c3[4]",
+					"strict" : false
+				},
+				{
+					"name" : "c3[5]",
+					"strict" : false
+				},
+				{
+					"name" : "c2[0]",
+					"strict" : false
+				},
+				{
+					"name" : "c2[3]",
+					"strict" : false
+				},
+				{
+					"name" : "c2[4]",
+					"strict" : false
+				},
+				{
+					"name" : "c2[5]",
+					"strict" : false
+				},
+				{
+					"name" : "c1[0]",
+					"strict" : false
+				},
+				{
+					"name" : "c1[3]",
+					"strict" : false
+				},
+				{
+					"name" : "c1[4]",
+					"strict" : false
+				},
+				{
+					"name" : "c1[5]",
+					"strict" : false
+				},
+				{
+					"name" : "c0[0]",
+					"strict" : false
+				},
+				{
+					"name" : "c0[3]",
+					"strict" : false
+				},
+				{
+					"name" : "c0[4]",
+					"strict" : false
+				},
+				{
+					"name" : "c0[5]",
+					"strict" : false
+				},
+				{
+					"name" : "red1",
+					"strict" : false
+				},
+				{
+					"name" : "green1",
+					"strict" : false
+				},
+				{
+					"name" : "yellow1",
+					"strict" : false
+				},
+				{
+					"name" : "trig1",
+					"strict" : false
+				},
+				{
+					"name" : "red2",
+					"strict" : false
+				},
+				{
+					"name" : "green2",
+					"strict" : false
+				},
+				{
+					"name" : "yellow2",
+					"strict" : false
+				},
+				{
+					"name" : "trig2",
+					"strict" : false
+				},
+				{
+					"name" : "red3",
+					"strict" : false
+				},
+				{
+					"name" : "green3",
+					"strict" : false
+				},
+				{
+					"name" : "yellow3",
+					"strict" : false
+				},
+				{
+					"name" : "trig3",
+					"strict" : false
+				},
+				{
+					"name" : "red4",
+					"strict" : false
+				},
+				{
+					"name" : "green4",
+					"strict" : false
+				},
+				{
+					"name" : "yellow4",
+					"strict" : false
+				},
+				{
+					"name" : "trig4",
+					"strict" : false
+				},
+				{
+					"name" : "trigIn",
+					"strict" : false
+				},
+				{
+					"name" : "trigOut",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				},
+				{
+					"name" : "reservedSwitch",
+					"strict" : false
+				},
+				{
+					"name" : "enterButton",
+					"strict" : false
+				},
+				{
+					"name" : "in0",
+					"strict" : false
+				},
+				{
+					"name" : "in1",
+					"strict" : false
+				},
+				{
+					"name" : "in2",
+					"strict" : false
+				},
+				{
+					"name" : "in3",
+					"strict" : false
+				},
+				{
+					"name" : "echo1",
+					"strict" : false
+				},
+				{
+					"name" : "echo2",
+					"strict" : false
+				},
+				{
+					"name" : "echo3",
+					"strict" : false
+				},
+				{
+					"name" : "echo4",
+					"strict" : false
+				},
+				{
+					"name" : "echoIn",
+					"strict" : false
+				},
+				{
+					"name" : "echoOut",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
